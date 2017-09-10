@@ -9,4 +9,4 @@ Should you have problems with the pack please check if it has been adressed on t
 Also use the search Function **before** creating a new post on the [Issue Tracker](https://github.com/DracoScythem/SITL/issues)
 
 ### Modlist
-[\*click me\*](https://dracoscythem.github.io/SITL/)
+The Modlist/Credits/Permission sheet can be found here: [\*click me\*](https://dracoscythem.github.io/SITL/)
